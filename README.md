@@ -33,7 +33,15 @@ Este proyecto es un dashboard interactivo construido con **Streamlit** para visu
 
 ## ⚡ Cómo correr el proyecto
 1. Crear y activar un entorno virtual:
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
+`bash`
+`python -m venv venv`
+`source venv/bin/activate  # Linux/Mac`
+`venv\Scripts\activate     # Windows`
+`pip install -r requirements.txt`
+
+streamlit run app.py
+
+📄 Autor
+
+Luciano Kremer – Estudiante de Ingeniería en Sistemas de Información (UTN).
+Intereses: Data Engineering, desarrollo de apps móviles y diseño de interfaces.
