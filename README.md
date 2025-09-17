@@ -57,20 +57,22 @@ El dataset utilizado contiene información sobre costos médicos y característi
 5. Abrir el navegador en (si es que no se abrio solo):
    http://localhost:8501
 
-##📊 Dataset
+---
+
+#📊 Dataset
 
 El dataset Insurance contiene las siguientes columnas:
 
-age: Edad del beneficiario principal.
+-`age`: Edad del beneficiario principal.
 
-sex: Género del asegurado (male, female).
+-`sex`: Género del asegurado (male, female).
 
-bmi: Índice de masa corporal.
+-`bmi`: Índice de masa corporal.
 
-children: Número de hijos a cargo.
+-`children`: Número de hijos a cargo.
 
-smoker: Si la persona es fumadora o no.
+-`smoker`: Si la persona es fumadora o no.
 
-region: Región de residencia (northeast, southeast, southwest, northwest).
+-`region`: Región de residencia (northeast, southeast, southwest, northwest).
 
-charges: Costos médicos facturados al seguro.
+-`charges`: Costos médicos facturados al seguro.
