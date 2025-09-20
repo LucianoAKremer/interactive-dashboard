@@ -76,3 +76,10 @@ El dataset Insurance contiene las siguientes columnas:
 -`region`: Región de residencia (northeast, southeast, southwest, northwest).
 
 -`charges`: Costos médicos facturados al seguro.
+
+
+<img width="1902" height="704" alt="image" src="https://github.com/user-attachments/assets/71e44349-ca91-4409-8a25-ce62d2379c6a" />
+<img width="1896" height="741" alt="image" src="https://github.com/user-attachments/assets/40397bd7-d903-40fc-9733-a45777c4a3fa" />
+<img width="1614" height="499" alt="image" src="https://github.com/user-attachments/assets/e17d0f65-20ba-458c-9dc4-fad939ccde08" />
+<img width="1572" height="550" alt="image" src="https://github.com/user-attachments/assets/8b967aa3-114f-41b6-a835-c0e86c592075" />
+<img width="1896" height="955" alt="image" src="https://github.com/user-attachments/assets/46afadb6-01db-460f-9aaf-883547f3f7a5" />
